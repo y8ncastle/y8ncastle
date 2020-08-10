@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, I'm Yoonsung (Zay), Jeong. 👋
+
+🌱 I’m currently learning Blockchain especially and also studying AI and BigData to handle them. I'm interested in technique which is related to 4th industrial revolution and Android app programming, either.
+
+### 📫 How to reach me
+- Email: y8ncastle@kakao.com
+- Personal Blog: https://y8ncastle.github.io
+- LinkedIn: https://www.linkedin.com/in/y8ncastle
+- Instagram: https://www.instagram.com/zay.jeong
+- Facebook: https://www.facebook.com/y8ncastle
 
 <!--
 **y8ncastle/y8ncastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
