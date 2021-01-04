@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me
 - Email: y8ncastle@kakao.com
-- Personal Blog: https://y8ncastle.github.io
+- Personal Blog: https://y8ncastle.me
 - LinkedIn: https://www.linkedin.com/in/y8ncastle
 - Instagram: https://www.instagram.com/zay.jeong
 - Facebook: https://www.facebook.com/y8ncastle
