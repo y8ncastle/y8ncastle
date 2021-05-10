@@ -1,6 +1,6 @@
 ### Hello, I am Yoonsung (Zay), Jeong. 👋
 
-🌱 A junior developer, currently studying Blockchain at graduate school to handle it professionally. I am focused on techniques which are related to 4th industrial revolution especially, but also interested in Android app programming and BigData analysis, either.
+🌱 A junior developer, currently studying Blockchain at graduate school to handle it professionally. The main part of focusing on is smart contract vulnerability, asset digitization and lightweighting for blockchain. I hope to work as an expert who designs and develops blockchain services at where it needs for its own business. Also, I am interested in AI, Big data analysis and Android programming, either.
 
 ### 📫 How to reach me
 - **Email**: y8ncastle@kakao.com
