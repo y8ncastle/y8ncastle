@@ -5,9 +5,7 @@
 ### 📫 How to reach me
 - **Email**: y8ncastle@kakao.com
 - **Personal Blog**: https://y8ncastle.me
-- **LinkedIn**: https://www.linkedin.com/in/y8ncastle
 - **Instagram**: https://www.instagram.com/zay.jeong
-- **Facebook**: https://www.facebook.com/y8ncastle
 
 <!--
 **y8ncastle/y8ncastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
