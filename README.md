@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me
 - **Email**: y8ncastle@kakao.com
-- **Personal Blog**: https://y8ncastle.me
+- **Personal Blog**: https://y8ncastle.world
 - **Instagram**: https://www.instagram.com/alec.jeong
 
 <!--
