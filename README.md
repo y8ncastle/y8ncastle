@@ -5,7 +5,7 @@
 ### 📫 How to reach me
 - **Email**: y8ncastle@kakao.com
 - **Personal Blog**: https://y8ncastle.world
-- **Instagram**: https://www.instagram.com/alec.jeong
+- **Instagram**: https://www.instagram.com/sssung.e
 
 <!--
 **y8ncastle/y8ncastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
