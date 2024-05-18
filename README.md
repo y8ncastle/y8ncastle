@@ -1,3 +1,7 @@
-### Hello, I am a Frontend developer, Yoonsung, Jeong (Alec). 👋
+### 🌱 Hello, I am a Frontend developer, Yoonsung, Jeong (Alec). 👋
 
-🌱 I studied and developed blockchain in graduate school, got master's degree, and am currently working as a frontend developer at a company specializing in blockchain. I like to learn new technologies, and also I'm a fast learner. I hope to see blockchain applied in various ways in the future, and I intend to work diligently in this area.
+I studied and developed blockchain in graduate school, and got my master's degree. Currently I'm working on frontend development focused on React.
+
+I enjoy learning new technologies and handling some data. Also, I quickly grasp new concepts and technologies based on my experience. That is my advantage.
+
+Thank you!
