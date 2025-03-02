@@ -1,4 +1,4 @@
-### 👨‍💻 EduTech and AI Service Developer 👋
+### 👨‍💻 EduTech, Blockchain and AI Service Developer 👋
 
 Hello. I'm **Yoonsung Jeong (Alec J)**, a developer striving on multiple fronts.
 
